@@ -1,2 +1,30 @@
 # app_captionAI
-System for generating titles from images
+Group 03 - System for generating titles from images  
+
+* Functional Aspects:  
+
+1) Dataset  
+COCO - Common objects in conext (Microsoft)  
+https://cocodataset.org/#home  
+
+2) DL Model  
+Visual Encoder-Decoder Model (ViT + GPT-2)  
+Link: https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/vision-encoder-decoder#transformers.VisionEncoderDecoderModel  
+
+Comment:  
+The Visual Encoder-Decoder Model can be used to initialize an image-to-text model with:  
+Step 01: Pretrained transformer-based vision model ==> this is the encoder (ViT)  
+Step 02: Pretrained language model ==> this is the decoder (GPT-2)  
+
+3) Application  
+Will consist of 2 parts:  
+- Module 1: information system to upload and show images  
+  Tools: Python + Django + Jquery + Frontend (not defined)  
+- Module 2: system with elements of AI with integration of ViT + GPT-2 model to Module 1  
+  Tools: PyTorch DL Framework  
+- Module 3: scalability of the system and upload all components of Modiule 2 in some container  
+  Tools: still undefined (probable Docker and some orchestrator to manage all libraries and components of Module 2)  
+
+4) Documentation  
+  Still undefined  
+  
