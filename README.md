@@ -17,7 +17,7 @@ Step 01: Pretrained transformer-based vision model ==> this is the encoder (ViT)
 Step 02: Pretrained language model ==> this is the decoder (GPT-2)  
 
 3) Software Application  
-Will consist of 2 parts:  
+Will consist of 3 stages:  
 - Module 1: information system to upload and show images  
   Tools: Python + Django + Jquery + Frontend (not defined)  
 - Module 2: system with elements of AI with integration of ViT + GPT-2 model to Module 1  
