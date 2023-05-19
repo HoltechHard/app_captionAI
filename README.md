@@ -22,7 +22,7 @@ Will consist of 2 parts:
   Tools: Python + Django + Jquery + Frontend (not defined)  
 - Module 2: system with elements of AI with integration of ViT + GPT-2 model to Module 1  
   Tools: PyTorch DL Framework  
-- Module 3: scalability of the system and upload all components of Modiule 2 in some container  
+- Module 3: scalability of the system and upload all components of Module 2 in some container  
   Tools: still undefined (probable Docker and some orchestrator to manage all libraries and components of Module 2)  
 
 4) Documentation  
