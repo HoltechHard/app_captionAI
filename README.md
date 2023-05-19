@@ -16,7 +16,7 @@ The Visual Encoder-Decoder Model can be used to initialize an image-to-text mode
 Step 01: Pretrained transformer-based vision model ==> this is the encoder (ViT)  
 Step 02: Pretrained language model ==> this is the decoder (GPT-2)  
 
-3) Application  
+3) Software Application  
 Will consist of 2 parts:  
 - Module 1: information system to upload and show images  
   Tools: Python + Django + Jquery + Frontend (not defined)  
@@ -26,5 +26,8 @@ Will consist of 2 parts:
   Tools: still undefined (probable Docker and some orchestrator to manage all libraries and components of Module 2)  
 
 4) Documentation  
-  Still undefined  
+  (Still undefined)  
+  Will be necessary read documents inside of folder "papers" and compress all the technical aspects involved 
+  in out project in this related with the 2 aspects: Dataset and DL Model and for the 3rd aspect: Software Application
+  will be necessary apply some Software Methodology for documentation (RUP, SCRUM, Agile Methods, etc...)
   
