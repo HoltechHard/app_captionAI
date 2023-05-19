@@ -1,0 +1,50 @@
+press ctrl + C to interrupt the server
+
+=========================
+#   List of commands    #
+=========================
+
+> pip install django
+
+> django-admin startproject appTIGenAI
+
+> cd appTIGenAI
+
+> python manage.py startapp myapp
+
+# apply the migrations for the apps 
+> python manage.py migrate
+
+# for creation of database
+> python manage.py makemigrations
+
+# after the creation of the database, run again
+> python manage.py migrate
+
+# how to run the webpage
+> python manage.py runserver
+
+
+=====================
+#   Root generated  #
+=====================
+
+appTIGenAI/
+├── myapp/
+│   ├── migrations/
+│   ├── templates/
+│   │   └── upload.html
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+└── appTIGenAI/
+    ├── __init__.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+
