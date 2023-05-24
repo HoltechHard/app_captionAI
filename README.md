@@ -1,6 +1,10 @@
 # app_captionAI
 Group 03 - System for generating titles from images  
 
+* Deployement:  
+  Full-repository of appTIGenAI_v8.0  
+  https://mega.nz/folder/RtFAWTLJ#drYIXBrhT2GmgQmBNQAwCA  
+
 * Functional Aspects:  
 
 1) Dataset  
