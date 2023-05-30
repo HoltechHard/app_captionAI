@@ -1,11 +1,19 @@
-# app_captionAI
-Group 03 - System for generating titles from images  
+# Final Project app_captionAI: Course Developing applications with elements of AI  
 
-* Deployement:  
+## Students
+Group 03 - System for generating titles from images  
+  - Holger Espinola  
+	- Van Syiui  
+	- Li Siyuan  
+	- Zhen Menguan  
+	- Fiodor Babeliuk  
+	- Artur Magomedov  
+
+## Deployement:  
   Full-repository of appTIGenAI_v8.0  
   https://mega.nz/folder/RtFAWTLJ#drYIXBrhT2GmgQmBNQAwCA  
 
-* Functional Aspects:  
+## Functional Aspects:  
 
 1) Dataset  
 COCO - Common objects in conext (Microsoft)  
