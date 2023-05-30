@@ -2,7 +2,7 @@
 
 ## Students
 Group 03 - System for generating titles from images  
-  - Holger Espinola  
+  	- Holger Espinola  
 	- Van Syiui  
 	- Li Siyuan  
 	- Zhen Menguan  
