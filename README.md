@@ -2,12 +2,12 @@
 
 ## Students
 Group 03 - System for generating titles from images  
-  	- Holger Espinola  
-	- Van Syiui  
-	- Li Siyuan  
-	- Zhen Menguan  
-	- Fiodor Babeliuk  
-	- Artur Magomedov  
+     - Holger Espinola  
+     - Van Syiui  
+     - Li Siyuan  
+     - Zhen Menguan  
+     - Fiodor Babeliuk  
+     - Artur Magomedov  
 
 ## Deployement:  
   Full-repository of appTIGenAI_v8.0  
