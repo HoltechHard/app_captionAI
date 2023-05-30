@@ -32,17 +32,18 @@ Step 01: Pretrained transformer-based vision model ==> this is the encoder (ViT)
 Step 02: Pretrained language model ==> this is the decoder (GPT-2)  
 
 3) Software Application  
-Will consist of 3 stages:  
+Will consist of 5 stages:  
 - Module 1: information system to upload and show images  
   Tools: Python + Django + Jquery + Frontend (not defined)  
-- Module 2: system with elements of AI with integration of ViT + GPT-2 model to Module 1  
-  Tools: PyTorch DL Framework  
-- Module 3: scalability of the system and upload all components of Module 2 in some container  
-  Tools: still undefined (probable Docker and some orchestrator to manage all libraries and components of Module 2)  
+- Module 2: software system integrated to AI model Encoder-Decoder Transformer ViT + GPT-2  
+  Tools: PyTorch DL Framework + App 
+- Module 3: module client - server (for 1 client)  
+- Module 4: module message - queue  
+- Module 5: module task - queue  
 
 4) Documentation  
   (Still undefined)  
-  Will be necessary read documents inside of folder "papers" and compress all the technical aspects involved 
-  in out project in this related with the 2 aspects: Dataset and DL Model and for the 3rd aspect: Software Application
-  will be necessary apply some Software Methodology for documentation (RUP, SCRUM, Agile Methods, etc...)
+  Will be necessary read documents inside of folder "papers" and compress all the technical aspects involved  
+  in out project in this related with the 2 aspects: Dataset and DL Model and for the 3rd aspect: Software Application  
+  will be necessary apply some Software Methodology for documentation (RUP, SCRUM, Agile Methods, etc...)  
   
